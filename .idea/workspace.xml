@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2cba832-314c-4326-a059-12a1090e0060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/runners/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/stepDefinitions/ForSaleSearchSteps.java" afterDir="false" />
+    <list default="true" id="e2cba832-314c-4326-a059-12a1090e0060" name="Default Changelist" comment="NOJIRA - Adding stepdefinitions">
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/common/BrowserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/common/DriverLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/CustomerCanSearchForPropertyForSale.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/features/CustomerCanSearchForPropertyForSale.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/runners/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/runners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/stepDefinitions/ForSaleSearchSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/zoopla/stepDefinitions/ForSaleSearchSteps.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577818099413</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="NOJIRA - Adding stepdefinitions">
+      <created>1578127000914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578127000914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PC-123- Adding extra negative test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="PC-123- Adding extra negative test data" />
+    <MESSAGE value="NOJIRA - Adding stepdefinitions" />
+    <option name="LAST_COMMIT_MESSAGE" value="NOJIRA - Adding stepdefinitions" />
   </component>
 </project>
